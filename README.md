@@ -1,4 +1,4 @@
-##🧘‍♀️ Mental Wellness Routine Generator 🌟##
+**🧘‍♀️ Mental Wellness Routine Generator 🌟**
 
 Welcome to the Mental Wellness Routine Generator! This app is designed to help you create a personalized wellness routine based on your mood and stress level. Whether you're feeling happy, sad, anxious, or lazy, we’ve got you covered with simple, uplifting routines to boost your well-being! ✨💆‍♀️
 
